@@ -11,9 +11,9 @@ void setup() {
   c2 = new Circle(width/2);
   c3 = new Circle(300);
   
-  boom = new SoundFile(this,"boom.mp3");
-  teleport = new SoundFile(this,"Teleport.mp3");
-  sus = new SoundFile(this,"Sus.mp3");
+  boom = new SoundFile(this,"boom.mp3");// Source: https://www.youtube.com/watch?v=_vBVGjFdwk4
+  teleport = new SoundFile(this,"Teleport.mp3");// Source: https://www.youtube.com/watch?v=Ni26LQOUc3Q
+  sus = new SoundFile(this,"Sus.mp3");// Source: https://www.youtube.com/watch?v=sbHvogpfwro
   
 }
 
